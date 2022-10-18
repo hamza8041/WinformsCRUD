@@ -1,0 +1,11 @@
+D:\WinForms\CRUD App\CRUD App\bin\Debug\CRUD App.exe.config
+D:\WinForms\CRUD App\CRUD App\bin\Debug\CRUD App.exe
+D:\WinForms\CRUD App\CRUD App\bin\Debug\CRUD App.pdb
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.AssemblyReference.cache
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.SuggestedBindingRedirects.cache
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD_App.StudentDetails.resources
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD_App.Properties.Resources.resources
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.GenerateResource.cache
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.CoreCompileInputs.cache
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD App.exe
+D:\WinForms\CRUD App\CRUD App\obj\Debug\CRUD App.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StudentDB" Class="StudentDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CRIBL-JAMILHAM1;Initial Catalog=StudentDB;Integrated Security=True" SettingsObjectName="CRUD_App.Properties.Settings" SettingsPropertyName="StudentDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.student" Member="students">
+    <Type Name="student">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GENDER" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AGE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STANDARD" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
